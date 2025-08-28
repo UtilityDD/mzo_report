@@ -496,6 +496,28 @@
   },
   {
     "Office": "BAISHNABNAGAR CCC (6611103)",
+    "Location": "Birnagar Bazar 100 KVA DTR",
+    "Description": "LT DTR Kiosk Damaged or Broken",
+    "Entered on": "2025-08-24T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "BAISHNABNAGAR CCC (6611103)",
+    "Location": "Old 17 mile Durga Mandap 63 KVA DTR",
+    "Description": "LT DTR Kiosk Missing. Exposed Fuse Unit",
+    "Entered on": "2025-08-24T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "BAISHNABNAGAR CCC (6611103)",
     "Location": "Simultala, Baishnabnagar",
     "Description": "LT Others Text To Be Entered",
     "Entered on": "2025-08-16T18:30:00.000Z",
@@ -503,6 +525,17 @@
     "Rectification done on": "2025-08-20T18:30:00.000Z",
     "Remarks": "DTR structure cleared of all vines",
     "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "BAISHNABNAGAR CCC (6611103)",
+    "Location": "Rameshwar Tola 63 KVA DTR",
+    "Description": "LT DTR Kiosk Missing. Exposed Fuse Unit",
+    "Entered on": "2025-08-24T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
     "Image": "View"
   },
   {
@@ -975,6 +1008,72 @@
     "Rectification done by": "Bikram Swarnakar",
     "Rectification done on": "2025-08-23T18:30:00.000Z",
     "Remarks": "The tree branches were cut and cleaned.",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "BAISHNABNAGAR CCC (6611103)",
+    "Location": "Rathbari Taltala 63 KVA DTR",
+    "Description": "LT Others Text To Be Entered",
+    "Entered on": "2025-08-26T18:30:00.000Z",
+    "Rectification done by": "Bikram Swarnakar",
+    "Rectification done on": "2025-08-26T18:30:00.000Z",
+    "Remarks": "The vines were cut and cleaned.",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "BAISHNABNAGAR CCC (6611103)",
+    "Location": "Molla Tolo Primary School 63 KVA DTR",
+    "Description": "LT DTR Kiosk Missing. Exposed Fuse Unit",
+    "Entered on": "2025-08-26T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "BAISHNABNAGAR CCC (6611103)",
+    "Location": "Durga Ram Tola 63 KVA DTR",
+    "Description": "LT DTR Kiosk Missing. Exposed Fuse Unit",
+    "Entered on": "2025-08-26T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "BAISHNABNAGAR CCC (6611103)",
+    "Location": "Lalu Tola 100 KVA DTR",
+    "Description": "LT DTR Kiosk Missing. Exposed Fuse Unit",
+    "Entered on": "2025-08-26T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "BAISHNABNAGAR CCC (6611103)",
+    "Location": "In front of Durga Mandir",
+    "Description": "LT Others Text To Be Entered",
+    "Entered on": "2025-08-19T18:30:00.000Z",
+    "Rectification done by": "Bikram Swarnakar",
+    "Rectification done on": "2025-08-26T18:30:00.000Z",
+    "Remarks": "Earthing wire cover with Silicone Fiberglass Sleev",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "BAISHNABNAGAR CCC (6611103)",
+    "Location": "Baishnabnagar Field",
+    "Description": "LT Others Text To Be Entered",
+    "Entered on": "2025-08-19T18:30:00.000Z",
+    "Rectification done by": "Bikram Swarnakar",
+    "Rectification done on": "2025-08-26T18:30:00.000Z",
+    "Remarks": "Earth wire cover with Silicone Fiberglass Sleeve",
     "Status": "RECTIFIED",
     "Image": "View"
   },
@@ -4642,6 +4741,50 @@
     "Image": "View"
   },
   {
+    "Office": "BAMONGOLA CCC (6613104)",
+    "Location": "Unnamed Road, Manikpur, Gopalpur, West Bengal 732138, India",
+    "Description": "LT Others Text To Be Entered",
+    "Entered on": "2025-08-26T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "BAMONGOLA CCC (6613104)",
+    "Location": "59F7+77P, Udhail, West Bengal 732138, India",
+    "Description": "LT Others Text To Be Entered",
+    "Entered on": "2025-08-26T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "BAMONGOLA CCC (6613104)",
+    "Location": "59F6+QQ2, Udhail, West Bengal 732138, India",
+    "Description": "LT Spacer Missing",
+    "Entered on": "2025-08-26T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "BAMONGOLA CCC (6613104)",
+    "Location": "59F6+QQ2, Udhail, West Bengal 732138, India",
+    "Description": "LT Others Text To Be Entered",
+    "Entered on": "2025-08-26T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
     "Office": "BHALUKA CCC (6612101)",
     "Location": "Katahadiyara 63 KVA DTR near Bhata",
     "Description": "LT Spacer Missing",
@@ -7645,6 +7788,39 @@
     "Image": "View"
   },
   {
+    "Office": "CHANCHAL CCC (6612104)",
+    "Location": "Domapir ,Kharba ,Chanchal Malda ,Pin 732150, Kobaia, West Bengal 732126, India",
+    "Description": "LT DTR Kiosk Missing. Exposed Fuse Unit",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "CHANCHAL CCC (6612104)",
+    "Location": "C37W+588, Kobaia, West Bengal 733128, India",
+    "Description": "LT Bare Conductor Poor Ground Clearance",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "CHANCHAL CCC (6612104)",
+    "Location": "Chanchal Blockpara Smart point",
+    "Description": "LT Others Text To Be Entered",
+    "Entered on": "2025-08-21T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
     "Office": "CHANCHAL DIVISION (6612000)",
     "Location": "Arbara Math, Ashapur",
     "Description": "HT 11 KV Bare Conductor Long Span Length",
@@ -8500,6 +8676,17 @@
     "Rectification done on": "",
     "Remarks": "",
     "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "CHANCHAL DIVISION (6612000)",
+    "Location": "Konua Battala, Harishachandrapur",
+    "Description": "HT 11 KV Others Text To Be Entered",
+    "Entered on": "2025-08-24T18:30:00.000Z",
+    "Rectification done by": "SUMAN SARDAR",
+    "Rectification done on": "2025-08-25T18:30:00.000Z",
+    "Remarks": "Weeds cleared",
+    "Status": "RECTIFIED",
     "Image": "View"
   },
   {
@@ -12232,6 +12419,17 @@
     "Image": "View"
   },
   {
+    "Office": "GOALPOKHAR CCC (6622104)",
+    "Location": "debiganj bazar 100KVA DTR neutral bare and feeder LT STay wire short .",
+    "Description": "LT Earthing Neutral Connected to Earth Wire in Untidy Manner",
+    "Entered on": "2025-08-26T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
     "Office": "GOLAPGANJ CCC (6611102)",
     "Location": "Joyenpur chama",
     "Description": "LT Jumper Broken or Damaged or Hanging",
@@ -14681,6 +14879,61 @@
     "Rectification done by": "Ranjan Kumar Bag",
     "Rectification done on": "2025-08-20T18:30:00.000Z",
     "Remarks": "Tree trimming done.",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "HARISHCHANDRAPUR CCC (6612106)",
+    "Location": "Lakshmanpur",
+    "Description": "LT Infrastructure Tree Infringement",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "Ranjan Kumar Bag",
+    "Rectification done on": "2025-08-25T18:30:00.000Z",
+    "Remarks": "Tree trimming done",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "HARISHCHANDRAPUR CCC (6612106)",
+    "Location": "Uttar Harishchandrapur",
+    "Description": "LT Infrastructure Tree Infringement",
+    "Entered on": "2025-08-26T18:30:00.000Z",
+    "Rectification done by": "Ranjan Kumar Bag",
+    "Rectification done on": "2025-08-26T18:30:00.000Z",
+    "Remarks": "Tree trimming done",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "HARISHCHANDRAPUR CCC (6612106)",
+    "Location": "Uttar Harishchandrapur",
+    "Description": "LT Infrastructure Tree Infringement",
+    "Entered on": "2025-08-26T18:30:00.000Z",
+    "Rectification done by": "Ranjan Kumar Bag",
+    "Rectification done on": "2025-08-26T18:30:00.000Z",
+    "Remarks": "Tree trimming done.",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "HARISHCHANDRAPUR CCC (6612106)",
+    "Location": "Manoharpur",
+    "Description": "LT Pole Tilted",
+    "Entered on": "2025-08-22T18:30:00.000Z",
+    "Rectification done by": "Ranjan Kumar Bag",
+    "Rectification done on": "2025-08-26T18:30:00.000Z",
+    "Remarks": "Rectified.",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "HARISHCHANDRAPUR CCC (6612106)",
+    "Location": "Sayra, W.B",
+    "Description": "LT Bare Conductor Snapped",
+    "Entered on": "2025-08-26T18:30:00.000Z",
+    "Rectification done by": "Ranjan Kumar Bag",
+    "Rectification done on": "2025-08-26T18:30:00.000Z",
+    "Remarks": "Rectified.",
     "Status": "RECTIFIED",
     "Image": "View"
   },
@@ -17326,6 +17579,17 @@
   },
   {
     "Office": "ISLAMPUR DIVISION (6622000)",
+    "Location": "ARIAGAON FP SCHOOL",
+    "Description": "HT 11 KV Cradle Guard Missing",
+    "Entered on": "2025-08-24T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "ISLAMPUR DIVISION (6622000)",
     "Location": "RANGAGACH CHOPRA NERA NH",
     "Description": "HT 11 KV Others Text To Be Entered",
     "Entered on": "2025-07-27T18:30:00.000Z",
@@ -18755,6 +19019,17 @@
     "Image": "View"
   },
   {
+    "Office": "ISLAMPUR DIVISION (6622000)",
+    "Location": "NAKSARGACH GOWABARI",
+    "Description": "HT 11 KV Cradle Guard Missing",
+    "Entered on": "2025-08-24T18:30:00.000Z",
+    "Rectification done by": "Md Mannan",
+    "Rectification done on": "2025-08-24T18:30:00.000Z",
+    "Remarks": "CRADLE GUARD ERECTED",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
     "Office": "ITAHAR CCC (6621101)",
     "Location": "Kamalai, Itahar",
     "Description": "LT Infrastructure Poor Horizontal Clearance",
@@ -19302,17 +19577,6 @@
     "Rectification done on": "2025-03-02T18:30:00.000Z",
     "Remarks": "New pole erected, clearance increased",
     "Status": "RECTIFIED",
-    "Image": "View"
-  },
-  {
-    "Office": "KALIACHAK CCC (6611104)",
-    "Location": "Nabinagar Kochimala school",
-    "Description": "LT DTR Kiosk Missing. Exposed Fuse Unit",
-    "Entered on": "2025-08-24T18:30:00.000Z",
-    "Rectification done by": "",
-    "Rectification done on": "",
-    "Remarks": "",
-    "Status": "INSPECTED",
     "Image": "View"
   },
   {
@@ -19965,6 +20229,17 @@
     "Image": "View"
   },
   {
+    "Office": "KALIACHAK CCC (6611104)",
+    "Location": "Nabinagar Kochimala school",
+    "Description": "LT DTR Kiosk Missing. Exposed Fuse Unit",
+    "Entered on": "2025-08-24T18:30:00.000Z",
+    "Rectification done by": "SANTANU MANDAL",
+    "Rectification done on": "2025-08-25T18:30:00.000Z",
+    "Remarks": "DTR kiosk installed",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
     "Office": "KALIAGANJ CCC (6621103)",
     "Location": "J98J+7HM, Puria Mahespur Rd, Puria, West Bengal 733129, India",
     "Description": "LT Spacer Missing",
@@ -20420,10 +20695,10 @@
     "Location": "QWRG+MGM, Karandighi, Salampur, West Bengal 854317, India",
     "Description": "LT Others Text To Be Entered",
     "Entered on": "2025-07-27T18:30:00.000Z",
-    "Rectification done by": "",
-    "Rectification done on": "",
-    "Remarks": "",
-    "Status": "INSPECTED",
+    "Rectification done by": "ASGAR SHAIKH",
+    "Rectification done on": "2025-08-04T18:30:00.000Z",
+    "Remarks": "tree catting complete",
+    "Status": "RECTIFIED",
     "Image": "View"
   },
   {
@@ -20791,39 +21066,6 @@
   },
   {
     "Office": "KARANDIGHI CCC (6621106)",
-    "Location": "RWC8+G98, Bhagelia, West Bengal 733215, India",
-    "Description": "LT Bare Conductor Poor Ground Clearance",
-    "Entered on": "2025-07-30T18:30:00.000Z",
-    "Rectification done by": "",
-    "Rectification done on": "",
-    "Remarks": "",
-    "Status": "INSPECTED",
-    "Image": "View"
-  },
-  {
-    "Office": "KARANDIGHI CCC (6621106)",
-    "Location": "RWC8+G98, Bhagelia, West Bengal 733215, India",
-    "Description": "LT Bare Conductor Poor Ground Clearance",
-    "Entered on": "2025-07-30T18:30:00.000Z",
-    "Rectification done by": "",
-    "Rectification done on": "",
-    "Remarks": "",
-    "Status": "INSPECTED",
-    "Image": "View"
-  },
-  {
-    "Office": "KARANDIGHI CCC (6621106)",
-    "Location": "RW2J+VJM, Karandighi, West Bengal 733215, India",
-    "Description": "LT Others Text To Be Entered",
-    "Entered on": "2025-08-24T18:30:00.000Z",
-    "Rectification done by": "",
-    "Rectification done on": "",
-    "Remarks": "",
-    "Status": "INSPECTED",
-    "Image": "View"
-  },
-  {
-    "Office": "KARANDIGHI CCC (6621106)",
     "Location": "QX76+3WW, Tungidighi, West Bengal 733215, India",
     "Description": "LT Spacer Missing",
     "Entered on": "2025-07-20T18:30:00.000Z",
@@ -20835,13 +21077,101 @@
   },
   {
     "Office": "KARANDIGHI CCC (6621106)",
+    "Location": "RW2J+VJM, Karandighi, West Bengal 733215, India",
+    "Description": "LT Others Text To Be Entered",
+    "Entered on": "2025-08-24T18:30:00.000Z",
+    "Rectification done by": "ASGAR SHAIKH",
+    "Rectification done on": "2025-08-25T18:30:00.000Z",
+    "Remarks": "tree catting Complete",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "KARANDIGHI CCC (6621106)",
     "Location": "RW2J+VJM, Karandighi, West Bengal 733215, India, Pachpir 63KVA DTR",
     "Description": "LT Others Text To Be Entered",
     "Entered on": "2025-08-24T18:30:00.000Z",
-    "Rectification done by": "",
-    "Rectification done on": "",
-    "Remarks": "",
-    "Status": "INSPECTED",
+    "Rectification done by": "ASGAR SHAIKH",
+    "Rectification done on": "2025-08-25T18:30:00.000Z",
+    "Remarks": "tree catting complete",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "KARANDIGHI CCC (6621106)",
+    "Location": "RW69+R4G, Karandighi, West Bengal 733215, India",
+    "Description": "LT Others Text To Be Entered",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "ASGAR SHAIKH",
+    "Rectification done on": "2025-08-25T18:30:00.000Z",
+    "Remarks": "tree catting complete",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "KARANDIGHI CCC (6621106)",
+    "Location": "RW78+HH8, Karandighi, West Bengal 733215, India",
+    "Description": "LT Others Text To Be Entered",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "ASGAR SHAIKH",
+    "Rectification done on": "2025-08-25T18:30:00.000Z",
+    "Remarks": "free catting complete",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "KARANDIGHI CCC (6621106)",
+    "Location": "RW78+HH8, Karandighi, West Bengal 733215, India",
+    "Description": "LT Others Text To Be Entered",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "ASGAR SHAIKH",
+    "Rectification done on": "2025-08-25T18:30:00.000Z",
+    "Remarks": "free catting complete",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "KARANDIGHI CCC (6621106)",
+    "Location": "RWC8+G98, Bhagelia, West Bengal 733215, India",
+    "Description": "LT Bare Conductor Poor Ground Clearance",
+    "Entered on": "2025-07-30T18:30:00.000Z",
+    "Rectification done by": "ASGAR SHAIKH",
+    "Rectification done on": "2025-08-12T18:30:00.000Z",
+    "Remarks": "free catting complete",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "KARANDIGHI CCC (6621106)",
+    "Location": "RWC8+G98, Bhagelia, West Bengal 733215, India",
+    "Description": "LT Others Text To Be Entered",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "ASGAR SHAIKH",
+    "Rectification done on": "2025-08-25T18:30:00.000Z",
+    "Remarks": "free catting complete",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "KARANDIGHI CCC (6621106)",
+    "Location": "RWC8+G98, Bhagelia, West Bengal 733215, India",
+    "Description": "LT Bare Conductor Poor Ground Clearance",
+    "Entered on": "2025-07-30T18:30:00.000Z",
+    "Rectification done by": "ASGAR SHAIKH",
+    "Rectification done on": "2025-08-10T18:30:00.000Z",
+    "Remarks": "Tree catting complete",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "KARANDIGHI CCC (6621106)",
+    "Location": "RWRH+VWG, Bikaur, West Bengal 733215, India",
+    "Description": "LT Others Text To Be Entered",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "ASGAR SHAIKH",
+    "Rectification done on": "2025-08-25T18:30:00.000Z",
+    "Remarks": "tree catting complete",
+    "Status": "RECTIFIED",
     "Image": "View"
   },
   {
@@ -23078,6 +23408,61 @@
     "Image": "View"
   },
   {
+    "Office": "KUSHIDA CCC (6612107)",
+    "Location": "Kasturia, tulshihata",
+    "Description": "LT Others Text To Be Entered",
+    "Entered on": "2025-08-23T18:30:00.000Z",
+    "Rectification done by": "PRAMOD KUMAR VERMA",
+    "Rectification done on": "2025-08-23T18:30:00.000Z",
+    "Remarks": "RECTIFIED",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "KUSHIDA CCC (6612107)",
+    "Location": "BHAGABANPUR",
+    "Description": "LT Bare Conductor Snapped",
+    "Entered on": "2025-08-23T18:30:00.000Z",
+    "Rectification done by": "PRAMOD KUMAR VERMA",
+    "Rectification done on": "2025-08-23T18:30:00.000Z",
+    "Remarks": "RECTIFIED",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "KUSHIDA CCC (6612107)",
+    "Location": "KAMARTA, KUSHIDA ROAD",
+    "Description": "LT Others Text To Be Entered",
+    "Entered on": "2025-08-24T18:30:00.000Z",
+    "Rectification done by": "PRAMOD KUMAR VERMA",
+    "Rectification done on": "2025-08-24T18:30:00.000Z",
+    "Remarks": "RECTIFIED",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "KUSHIDA CCC (6612107)",
+    "Location": "KAMARTA, KUSHIDA ROAD",
+    "Description": "LT Others Text To Be Entered",
+    "Entered on": "2025-08-24T18:30:00.000Z",
+    "Rectification done by": "PRAMOD KUMAR VERMA",
+    "Rectification done on": "2025-08-24T18:30:00.000Z",
+    "Remarks": "RECTIFUED",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "KUSHIDA CCC (6612107)",
+    "Location": "KUSHIDA, SCHOOL ROAD",
+    "Description": "LT Others Text To Be Entered",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "PRAMOD KUMAR VERMA",
+    "Rectification done on": "2025-08-25T18:30:00.000Z",
+    "Remarks": "RECTIFIED",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
     "Office": "KUSHMANDI CCC (6632102)",
     "Location": "VILL+P.O=DEHABAND P.S= KUSHMUNDI DIST=D/DINAJPUR. WEST BANGAL PIN=733132 D, Dehabanda, West Bengal 733132, India",
     "Description": "LT Spacer Damaged or Broken",
@@ -24911,6 +25296,116 @@
     "Rectification done by": "Md Jarman Hossain",
     "Rectification done on": "2025-08-09T18:30:00.000Z",
     "Remarks": "cable connection tightened",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "MOTHABARI CCC (6611105)",
+    "Location": "sukurditola uttar laxmipur",
+    "Description": "LT Earthing Broken or Detached Earth Wire",
+    "Entered on": "2025-08-24T18:30:00.000Z",
+    "Rectification done by": "Md Jarman Hossain",
+    "Rectification done on": "2025-08-25T18:30:00.000Z",
+    "Remarks": "earth wire covered",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "MOTHABARI CCC (6611105)",
+    "Location": "sukurditola uttar laxmipur",
+    "Description": "LT Earthing Broken or Detached Earth Wire",
+    "Entered on": "2025-08-24T18:30:00.000Z",
+    "Rectification done by": "Md Jarman Hossain",
+    "Rectification done on": "2025-08-25T18:30:00.000Z",
+    "Remarks": "earth wire covered",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "MOTHABARI CCC (6611105)",
+    "Location": "sukurditola uttar laxmipur",
+    "Description": "LT Earthing Broken or Detached Earth Wire",
+    "Entered on": "2025-08-24T18:30:00.000Z",
+    "Rectification done by": "Md Jarman Hossain",
+    "Rectification done on": "2025-08-25T18:30:00.000Z",
+    "Remarks": "earth wire covered",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "MOTHABARI CCC (6611105)",
+    "Location": "sukurditola uttar laxmipur",
+    "Description": "LT Earthing Broken or Detached Earth Wire",
+    "Entered on": "2025-08-24T18:30:00.000Z",
+    "Rectification done by": "Md Jarman Hossain",
+    "Rectification done on": "2025-08-25T18:30:00.000Z",
+    "Remarks": "earth wire covered",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "MOTHABARI CCC (6611105)",
+    "Location": "sukurditola uttar laxmipur",
+    "Description": "LT Earthing Broken or Detached Earth Wire",
+    "Entered on": "2025-08-24T18:30:00.000Z",
+    "Rectification done by": "Md Jarman Hossain",
+    "Rectification done on": "2025-08-25T18:30:00.000Z",
+    "Remarks": "earth wire covered",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "MOTHABARI CCC (6611105)",
+    "Location": "sukurditola uttar laxmipur",
+    "Description": "LT Earthing Broken or Detached Earth Wire",
+    "Entered on": "2025-08-24T18:30:00.000Z",
+    "Rectification done by": "Md Jarman Hossain",
+    "Rectification done on": "2025-08-25T18:30:00.000Z",
+    "Remarks": "earth wire covered",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "MOTHABARI CCC (6611105)",
+    "Location": "sukurditola uttar laxmipur",
+    "Description": "LT Earthing Broken or Detached Earth Wire",
+    "Entered on": "2025-08-24T18:30:00.000Z",
+    "Rectification done by": "Md Jarman Hossain",
+    "Rectification done on": "2025-08-25T18:30:00.000Z",
+    "Remarks": "earth wire covered",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "MOTHABARI CCC (6611105)",
+    "Location": "sukurditola uttar laxmipur",
+    "Description": "LT Earthing Broken or Detached Earth Wire",
+    "Entered on": "2025-08-24T18:30:00.000Z",
+    "Rectification done by": "Md Jarman Hossain",
+    "Rectification done on": "2025-08-25T18:30:00.000Z",
+    "Remarks": "earth wire covered",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "MOTHABARI CCC (6611105)",
+    "Location": "sukurditola uttar laxmipur",
+    "Description": "LT Earthing Broken or Detached Earth Wire",
+    "Entered on": "2025-08-24T18:30:00.000Z",
+    "Rectification done by": "Md Jarman Hossain",
+    "Rectification done on": "2025-08-25T18:30:00.000Z",
+    "Remarks": "earth wire covered",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "MOTHABARI CCC (6611105)",
+    "Location": "sukurditola uttar laxmipur",
+    "Description": "LT Earthing Broken or Detached Earth Wire",
+    "Entered on": "2025-08-24T18:30:00.000Z",
+    "Rectification done by": "Md Jarman Hossain",
+    "Rectification done on": "2025-08-25T18:30:00.000Z",
+    "Remarks": "earth wire covered",
     "Status": "RECTIFIED",
     "Image": "View"
   },
@@ -27445,6 +27940,72 @@
     "Image": "View"
   },
   {
+    "Office": "RAIGANJ CCC (6621104)",
+    "Location": "Sonadangi",
+    "Description": "LT Pole Tilted",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "Partha Singha Roy",
+    "Rectification done on": "2025-08-25T18:30:00.000Z",
+    "Remarks": "Rectification",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "RAIGANJ CCC (6621104)",
+    "Location": "Kanaipur village",
+    "Description": "LT Pole Broken or Damaged",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "Partha Singha Roy",
+    "Rectification done on": "2025-08-25T18:30:00.000Z",
+    "Remarks": "Rectified",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "RAIGANJ CCC (6621104)",
+    "Location": "Ashokpally",
+    "Description": "LT Pole Broken or Damaged",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "Partha Singha Roy",
+    "Rectification done on": "2025-08-25T18:30:00.000Z",
+    "Remarks": "Rectification done",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "RAIGANJ CCC (6621104)",
+    "Location": "Maheshpur",
+    "Description": "LT Bare Conductor Snapped",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "Partha Singha Roy",
+    "Rectification done on": "2025-08-25T18:30:00.000Z",
+    "Remarks": "Rectification done",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "RAIGANJ CCC (6621104)",
+    "Location": "Gobindapur",
+    "Description": "LT Bare Conductor Snapped",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "Partha Singha Roy",
+    "Rectification done on": "2025-08-25T18:30:00.000Z",
+    "Remarks": "Rectification done",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "RAIGANJ CCC (6621104)",
+    "Location": "Rampur village",
+    "Description": "LT DTR Fire or Glow at Bushings",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "Partha Singha Roy",
+    "Rectification done on": "2025-08-25T18:30:00.000Z",
+    "Remarks": "Rectification done",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
     "Office": "RAIGUNJ DIVISION (6621000)",
     "Location": "J4FV+H6R, East Netaji Pally, Bhomra, Raiganj, West Bengal 733134, India",
     "Description": "HT 33 KV Pole Tilted",
@@ -28332,6 +28893,105 @@
     "Rectification done by": "Subhendu Chowdhury",
     "Rectification done on": "2025-07-24T18:30:00.000Z",
     "Remarks": "WORK DONE",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "SUJAPUR CCC (6611106)",
+    "Location": "JALUABADHAL",
+    "Description": "LT Earthing Neutral Connected to Earth Wire in Untidy Manner",
+    "Entered on": "2025-08-20T18:30:00.000Z",
+    "Rectification done by": "Tamal Krishna Palit",
+    "Rectification done on": "2025-08-20T18:30:00.000Z",
+    "Remarks": "EARTH GI WIRE COVERED",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "SUJAPUR CCC (6611106)",
+    "Location": "BARANAGARDANGA",
+    "Description": "LT Spacer Missing",
+    "Entered on": "2025-08-21T18:30:00.000Z",
+    "Rectification done by": "Tamal Krishna Palit",
+    "Rectification done on": "2025-08-21T18:30:00.000Z",
+    "Remarks": "LT SPACER FIXED",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "SUJAPUR CCC (6611106)",
+    "Location": "JADUPUR KHOTTAPARA",
+    "Description": "LT Spacer Missing",
+    "Entered on": "2025-08-22T18:30:00.000Z",
+    "Rectification done by": "Tamal Krishna Palit",
+    "Rectification done on": "2025-08-22T18:30:00.000Z",
+    "Remarks": "LT SPACER FIXED",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "SUJAPUR CCC (6611106)",
+    "Location": "JADUPUR NAYAGRAM",
+    "Description": "LT Spacer Missing",
+    "Entered on": "2025-08-22T18:30:00.000Z",
+    "Rectification done by": "Tamal Krishna Palit",
+    "Rectification done on": "2025-08-22T18:30:00.000Z",
+    "Remarks": "LT SPACER FIXING DONE",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "SUJAPUR CCC (6611106)",
+    "Location": "JADUPUR KHOTTAPARA",
+    "Description": "LT Spacer Missing",
+    "Entered on": "2025-08-22T18:30:00.000Z",
+    "Rectification done by": "Tamal Krishna Palit",
+    "Rectification done on": "2025-08-22T18:30:00.000Z",
+    "Remarks": "LT SPACER FIXED",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "SUJAPUR CCC (6611106)",
+    "Location": "MAKALPUR VILLAGE",
+    "Description": "LT Others Text To Be Entered",
+    "Entered on": "2025-08-26T18:30:00.000Z",
+    "Rectification done by": "Tamal Krishna Palit",
+    "Rectification done on": "2025-08-26T18:30:00.000Z",
+    "Remarks": "CREEPERS CLEANED",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "SUJAPUR CCC (6611106)",
+    "Location": "JADUPUR KAYASTHAPARA",
+    "Description": "LT Earthing Neutral Connected to Earth Wire in Untidy Manner",
+    "Entered on": "2025-08-26T18:30:00.000Z",
+    "Rectification done by": "Tamal Krishna Palit",
+    "Rectification done on": "2025-08-26T18:30:00.000Z",
+    "Remarks": "EARTHING COVERED BY PIPE",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "SUJAPUR CCC (6611106)",
+    "Location": "JADUPUR KAYASTHAPARA",
+    "Description": "LT Earthing Neutral Connected to Earth Wire in Untidy Manner",
+    "Entered on": "2025-08-26T18:30:00.000Z",
+    "Rectification done by": "Tamal Krishna Palit",
+    "Rectification done on": "2025-08-26T18:30:00.000Z",
+    "Remarks": "EARTH CONDUCTOR COVERED BY INSULATED PIPE",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "SUJAPUR CCC (6611106)",
+    "Location": "FATEKHANI, NATIBPUR",
+    "Description": "LT Others Text To Be Entered",
+    "Entered on": "2025-08-23T18:30:00.000Z",
+    "Rectification done by": "Tamal Krishna Palit",
+    "Rectification done on": "2025-08-23T18:30:00.000Z",
+    "Remarks": "CREEPERS CLEANED",
     "Status": "RECTIFIED",
     "Image": "View"
   },
@@ -31296,17 +31956,6 @@
   },
   {
     "Office": "BUNIADPUR CCC (6632101)",
-    "Location": "Sarai, West Bengal 733121, India",
-    "Description": "LT Spacer Missing",
-    "Entered on": "2025-06-12T18:30:00.000Z",
-    "Rectification done by": "",
-    "Rectification done on": "",
-    "Remarks": "",
-    "Status": "INSPECTED",
-    "Image": "View"
-  },
-  {
-    "Office": "BUNIADPUR CCC (6632101)",
     "Location": "Healthbuddy Buniadpur Pharmacy Vill.+ P.O- Buniadpur, P.S- Banshihari, Dag No.-232, Kh No.- 2411 JL No.- 263, Ward No.- 8, Dist, Shyamapally, Buniadpur, West Bengal 733121, India",
     "Description": "LT Service Connection Installation Service Angle &/ Insulator Missing",
     "Entered on": "2025-03-11T18:30:00.000Z",
@@ -31374,17 +32023,6 @@
   {
     "Office": "BUNIADPUR CCC (6632101)",
     "Location": "Unnamed Road, West Bengal 733121, India",
-    "Description": "LT Spacer Missing",
-    "Entered on": "2025-06-12T18:30:00.000Z",
-    "Rectification done by": "",
-    "Rectification done on": "",
-    "Remarks": "",
-    "Status": "INSPECTED",
-    "Image": "View"
-  },
-  {
-    "Office": "BUNIADPUR CCC (6632101)",
-    "Location": "C936+MJ6, Kusumba, West Bengal 733121, India",
     "Description": "LT Spacer Missing",
     "Entered on": "2025-06-12T18:30:00.000Z",
     "Rectification done by": "",
@@ -31761,32 +32399,10 @@
     "Location": "99PM+V5G, Buniadpur, Malam, West Bengal 733121, India",
     "Description": "LT Spacer Missing",
     "Entered on": "2025-06-15T18:30:00.000Z",
-    "Rectification done by": "",
-    "Rectification done on": "",
-    "Remarks": "",
-    "Status": "INSPECTED",
-    "Image": "View"
-  },
-  {
-    "Office": "BUNIADPUR CCC (6632101)",
-    "Location": "Unnamed Road, Malam, Buniadpur, West Bengal 733121, India",
-    "Description": "LT Spacer Missing",
-    "Entered on": "2025-06-15T18:30:00.000Z",
-    "Rectification done by": "",
-    "Rectification done on": "",
-    "Remarks": "",
-    "Status": "INSPECTED",
-    "Image": "View"
-  },
-  {
-    "Office": "BUNIADPUR CCC (6632101)",
-    "Location": "Hati Duba Rd, Badalpur, West Bengal 733121, India",
-    "Description": "LT Spacer Missing",
-    "Entered on": "2025-06-15T18:30:00.000Z",
-    "Rectification done by": "",
-    "Rectification done on": "",
-    "Remarks": "",
-    "Status": "INSPECTED",
+    "Rectification done by": "IMRAN SARKAR",
+    "Rectification done on": "2025-06-17T18:30:00.000Z",
+    "Remarks": "Complete",
+    "Status": "RECTIFIED",
     "Image": "View"
   },
   {
@@ -31885,6 +32501,50 @@
     "Rectification done by": "IMRAN SARKAR",
     "Rectification done on": "2025-04-09T18:30:00.000Z",
     "Remarks": "Complete.",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "BUNIADPUR CCC (6632101)",
+    "Location": "Hati Duba Rd, Badalpur, West Bengal 733121, India",
+    "Description": "LT Spacer Missing",
+    "Entered on": "2025-06-15T18:30:00.000Z",
+    "Rectification done by": "IMRAN SARKAR",
+    "Rectification done on": "2025-06-18T18:30:00.000Z",
+    "Remarks": "Complete",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "BUNIADPUR CCC (6632101)",
+    "Location": "Unnamed Road, Malam, Buniadpur, West Bengal 733121, India",
+    "Description": "LT Spacer Missing",
+    "Entered on": "2025-06-15T18:30:00.000Z",
+    "Rectification done by": "IMRAN SARKAR",
+    "Rectification done on": "2025-06-18T18:30:00.000Z",
+    "Remarks": "Complete",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "BUNIADPUR CCC (6632101)",
+    "Location": "Sarai, West Bengal 733121, India",
+    "Description": "LT Spacer Missing",
+    "Entered on": "2025-06-12T18:30:00.000Z",
+    "Rectification done by": "IMRAN SARKAR",
+    "Rectification done on": "2025-06-25T18:30:00.000Z",
+    "Remarks": "Complete",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "BUNIADPUR CCC (6632101)",
+    "Location": "C936+MJ6, Kusumba, West Bengal 733121, India",
+    "Description": "LT Spacer Missing",
+    "Entered on": "2025-06-12T18:30:00.000Z",
+    "Rectification done by": "IMRAN SARKAR",
+    "Rectification done on": "2025-06-15T18:30:00.000Z",
+    "Remarks": "Complete",
     "Status": "RECTIFIED",
     "Image": "View"
   },
@@ -37037,6 +37697,28 @@
     "Image": "View"
   },
   {
+    "Office": "KALIAGANJ CCC (6621103)",
+    "Location": "PXMR+4GW, Bihinagar, West Bengal 733215, India",
+    "Description": "LT Bare Conductor Long Span Length",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "KALIAGANJ CCC (6621103)",
+    "Location": "RW38+6V4, Khikhirtola, Karandighi, West Bengal 733215, India",
+    "Description": "LT Infrastructure Creepers on Pole or Support Structure",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
     "Office": "KANKI CCC (6622105)",
     "Location": "2V45+P4X, Kanki, West Bengal 733209, India",
     "Description": "LT Spacer Missing",
@@ -37063,6 +37745,127 @@
     "Location": "Kamarsal to Nizampur Haat Rd, Kanjia, Sathaur, West Bengal 733209, India",
     "Description": "LT Bare Conductor Poor Ground Clearance",
     "Entered on": "2025-06-09T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "KARANDIGHI CCC (6621106)",
+    "Location": "P25Q+42W, Bilaspur, West Bengal 733130, India",
+    "Description": "LT Infrastructure Creepers on Pole or Support Structure",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "KARANDIGHI CCC (6621106)",
+    "Location": "NH 12, Altapur, Nakol, West Bengal 733215, India",
+    "Description": "LT DTR Tilted & Unsafe DTR Structure",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "KARANDIGHI CCC (6621106)",
+    "Location": "P2G3+5R6, Altapur, West Bengal 733215, India",
+    "Description": "LT Infrastructure Creepers on Pole or Support Structure",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "KARANDIGHI CCC (6621106)",
+    "Location": "PXMR+4GW, Bihinagar, West Bengal 733215, India",
+    "Description": "LT Infrastructure Tree Infringement",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "KARANDIGHI CCC (6621106)",
+    "Location": "PXMR+4GW, Bihinagar, West Bengal 733215, India",
+    "Description": "LT Spacer Missing",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "KARANDIGHI CCC (6621106)",
+    "Location": "PXMR+7F2, Bihinagar, West Bengal 733215, India",
+    "Description": "LT Spacer Missing",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "KARANDIGHI CCC (6621106)",
+    "Location": "PXPP+FJQ, Bihinagar, West Bengal 733215, India",
+    "Description": "LT Infrastructure Creepers on Pole or Support Structure",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "KARANDIGHI CCC (6621106)",
+    "Location": "PXQJ+VJC, Kuhator, West Bengal 733215, India",
+    "Description": "LT Spacer Missing",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "KARANDIGHI CCC (6621106)",
+    "Location": "QX29+XCG, Tungidighi, West Bengal 733215, India",
+    "Description": "LT Spacer Inadequate",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "KARANDIGHI CCC (6621106)",
+    "Location": "lat 25.754438000000",
+    "Description": "LT Spacer Missing",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "KARANDIGHI CCC (6621106)",
+    "Location": "PXMR+4GW, Bihinagar, West Bengal 733215, India",
+    "Description": "LT Bare Conductor Poor Ground Clearance",
+    "Entered on": "2025-08-25T18:30:00.000Z",
     "Rectification done by": "",
     "Rectification done on": "",
     "Remarks": "",
@@ -41185,6 +41988,28 @@
   },
   {
     "Office": "RAIGANJ CCC (6621104)",
+    "Location": "M37M+VMC, Tetultala, Sitgram, West Bengal 733130, India",
+    "Description": "LT Infrastructure Creepers on Pole or Support Structure",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "RAIGANJ CCC (6621104)",
+    "Location": "M2XX+WRJ, Shitalpur, West Bengal 733130, India",
+    "Description": "LT Infrastructure Creepers on Pole or Support Structure",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "RAIGANJ CCC (6621104)",
     "Location": "M5CF+HF9, SH 10A, Mahespur, West Bengal 733130, India",
     "Description": "LT Pole Broken or Damaged",
     "Entered on": "2025-08-24T18:30:00.000Z",
@@ -41305,6 +42130,39 @@
     "Image": "View"
   },
   {
+    "Office": "RAIGANJ CCC (6621104)",
+    "Location": "M37M+VMC, Tetultala, Sitgram, West Bengal 733130, India",
+    "Description": "LT Spacer Missing",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "RAIGANJ CCC (6621104)",
+    "Location": "M3HF+VVR, NH 12, Dwipnagar, West Bengal 733130, India",
+    "Description": "LT Spacer Missing",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "RAIGANJ CCC (6621104)",
+    "Location": "J4Q7+32F Mahadeb Home, Soharai, West Bengal 733130, India",
+    "Description": "LT Bare Conductor Poor Ground Clearance",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
     "Office": "RAIGUNJ DIVISION (6621000)",
     "Location": "VENDABARI, RAIGANJ DIVISION",
     "Description": "HT 11 KV Bare Conductor Long Span Length",
@@ -41357,6 +42215,17 @@
     "Rectification done on": "2024-11-01T18:30:00.000Z",
     "Remarks": "Necessary rectification carried out.",
     "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "RAIGUNJ DIVISION (6621000)",
+    "Location": 88.171714,
+    "Description": "HT 11 KV Pole Tilted",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
     "Image": "View"
   },
   {
@@ -41559,9 +42428,53 @@
   },
   {
     "Office": "RAIGUNJ DIVISION (6621000)",
+    "Location": "M3Q7+C84, Krishnamuri, West Bengal 733130, India",
+    "Description": "HT 11 KV Infrastructure Creepers on Pole or Support Structure",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "RAIGUNJ DIVISION (6621000)",
     "Location": "M568+R3C, SH 10A, Chhota Parua, West Bengal 733130, India",
     "Description": "HT 11 KV Infrastructure Creepers on Pole or Support Structure",
     "Entered on": "2025-08-24T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "RAIGUNJ DIVISION (6621000)",
+    "Location": "P2F4+W8C, Altapur, West Bengal 733215, India",
+    "Description": "HT 33 KV Infrastructure Creepers on Pole or Support Structure",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "RAIGUNJ DIVISION (6621000)",
+    "Location": "QX83+G8C, Bhaksala, Tungidighi, West Bengal 733215, India",
+    "Description": "HT 11 KV Pole Tilted",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "RAIGUNJ DIVISION (6621000)",
+    "Location": "QWCX+C75, Sadhanpur, Tungidighi, West Bengal 733215, India",
+    "Description": "HT 11 KV Infrastructure Human Encrochment",
+    "Entered on": "2025-08-25T18:30:00.000Z",
     "Rectification done by": "",
     "Rectification done on": "",
     "Remarks": "",
@@ -41661,6 +42574,127 @@
     "Location": "M578+MV2, SH 10A, Chhota Parua, West Bengal 733130, India",
     "Description": "HT 11 KV Infrastructure Creepers on Pole or Support Structure",
     "Entered on": "2025-08-24T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "RAIGUNJ DIVISION (6621000)",
+    "Location": "M3W2+QWM, NH 12, Krishnamuri, West Bengal 733130, India",
+    "Description": "HT 11 KV Infrastructure Creepers on Pole or Support Structure",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "RAIGUNJ DIVISION (6621000)",
+    "Location": "QX74+F3C, Tungidighi, Baijuar, West Bengal 733215, India",
+    "Description": "HT 11 KV Infrastructure Human Encrochment",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "RAIGUNJ DIVISION (6621000)",
+    "Location": "RWRH+FH3, Bikaur, West Bengal 733215, India",
+    "Description": "HT 33 KV Infrastructure Creepers on Pole or Support Structure",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "RAIGUNJ DIVISION (6621000)",
+    "Location": "PXVH+G35, Jujharpur, West Bengal 733215, India",
+    "Description": "HT 11 KV Infrastructure Creepers on Pole or Support Structure",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "RAIGUNJ DIVISION (6621000)",
+    "Location": "P26H+7FJ, NH 12, Balia, West Bengal 733130, India",
+    "Description": "HT 11 KV Infrastructure Human Encrochment",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "RAIGUNJ DIVISION (6621000)",
+    "Location": "M3CJ+92H, Dwipnagar, West Bengal 733130, India",
+    "Description": "HT 11 KV Pole Tilted",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "RAIGUNJ DIVISION (6621000)",
+    "Location": "Dalkhola - Bakkhali Rd, Kasba, West Bengal 733123, India",
+    "Description": "HT 11 KV Pole Tilted",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "RAIGUNJ DIVISION (6621000)",
+    "Location": "H47P+XC9, NH 12, Pachim Mahadebpur, West Bengal 733123, India",
+    "Description": "HT 11 KV Infrastructure Creepers on Pole or Support Structure",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "RAIGUNJ DIVISION (6621000)",
+    "Location": "H45R+M34, NH 12, Pachim Mahadebpur, West Bengal 733123, India",
+    "Description": "HT 11 KV Infrastructure Creepers on Pole or Support Structure",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "RAIGUNJ DIVISION (6621000)",
+    "Location": "C59F+QF3, Kurmanpur, West Bengal 733128, India",
+    "Description": "HT 11 KV Pole Tilted",
+    "Entered on": "2025-08-25T18:30:00.000Z",
+    "Rectification done by": "",
+    "Rectification done on": "",
+    "Remarks": "",
+    "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "RAIGUNJ DIVISION (6621000)",
+    "Location": "Dalkhola - Bakkhali Rd, Chhilimpur, West Bengal 733128, India",
+    "Description": "HT 33 KV Infrastructure Creepers on Pole or Support Structure",
+    "Entered on": "2025-08-25T18:30:00.000Z",
     "Rectification done by": "",
     "Rectification done on": "",
     "Remarks": "",
@@ -42428,6 +43462,17 @@
   },
   {
     "Office": "SUJAPUR CCC (6611106)",
+    "Location": "V2MV+GWG, NH 12, Jadupur, Uttar Dariapur, West Bengal 732201, India",
+    "Description": "LT Spacer Missing",
+    "Entered on": "2025-07-23T18:30:00.000Z",
+    "Rectification done by": "Tamal Krishna Palit",
+    "Rectification done on": "2025-08-24T18:30:00.000Z",
+    "Remarks": "LT SPACER FIXED",
+    "Status": "RECTIFIED",
+    "Image": "View"
+  },
+  {
+    "Office": "SUJAPUR CCC (6611106)",
     "Location": "V3R7+G77, NH 12, Baranagar, Natibpur, West Bengal 732201, India",
     "Description": "LT DTR Kiosk Missing. Exposed Fuse Unit",
     "Entered on": "2025-07-23T18:30:00.000Z",
@@ -42461,29 +43506,7 @@
   },
   {
     "Office": "SUJAPUR CCC (6611106)",
-    "Location": "V3Q5+P5P, Badshahi Rd, Near Bharat Petrol pump, Natibpur, West Bengal 732206, India",
-    "Description": "LT Infrastructure Creepers on Pole or Support Structure",
-    "Entered on": "2025-07-23T18:30:00.000Z",
-    "Rectification done by": "",
-    "Rectification done on": "",
-    "Remarks": "",
-    "Status": "INSPECTED",
-    "Image": "View"
-  },
-  {
-    "Office": "SUJAPUR CCC (6611106)",
     "Location": "V3Q4+F63, Azimpur, Natibpur, West Bengal 732201, India",
-    "Description": "LT Spacer Missing",
-    "Entered on": "2025-07-23T18:30:00.000Z",
-    "Rectification done by": "",
-    "Rectification done on": "",
-    "Remarks": "",
-    "Status": "INSPECTED",
-    "Image": "View"
-  },
-  {
-    "Office": "SUJAPUR CCC (6611106)",
-    "Location": "V2MV+GWG, NH 12, Jadupur, Uttar Dariapur, West Bengal 732201, India",
     "Description": "LT Spacer Missing",
     "Entered on": "2025-07-23T18:30:00.000Z",
     "Rectification done by": "",
@@ -42512,6 +43535,17 @@
     "Rectification done on": "",
     "Remarks": "",
     "Status": "INSPECTED",
+    "Image": "View"
+  },
+  {
+    "Office": "SUJAPUR CCC (6611106)",
+    "Location": "V3Q5+P5P, Badshahi Rd, Near Bharat Petrol pump, Natibpur, West Bengal 732206, India",
+    "Description": "LT Infrastructure Creepers on Pole or Support Structure",
+    "Entered on": "2025-07-23T18:30:00.000Z",
+    "Rectification done by": "Tamal Krishna Palit",
+    "Rectification done on": "2025-08-25T18:30:00.000Z",
+    "Remarks": "CREEPERS CLEANED",
+    "Status": "RECTIFIED",
     "Image": "View"
   }
 ]
