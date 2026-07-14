@@ -4209,6 +4209,249 @@
     // Consolidating all DOMContentLoaded logic into the first listener above
   </script>
 
+  <!-- Migration Overlay Modal -->
+  <div id="mzo-migration-overlay" class="mig-overlay" style="display: none;">
+    <div class="mig-modal">
+      <div class="mig-header">
+        <i class="fas fa-rocket mig-header-icon"></i>
+        <h3>We have Upgraded!</h3>
+      </div>
+      <div class="mig-body">
+        <p>MZO Reports has migrated to a brand-new, modern <strong>Progressive Web App (PWA)</strong> for an upgraded experience with offline capabilities, lighting-fast loading, and a custom mobile launcher.</p>
+        
+        <div class="mig-qr-section">
+          <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&amp;data=https://mzo-report-pwa.vercel.app/" alt="New PWA QR Code" class="mig-qr-img">
+          <span>Scan QR code with your phone to open the PWA instantly</span>
+        </div>
+        
+        <p class="mig-url-text">New URL: <a href="https://mzo-report-pwa.vercel.app" target="_blank">mzo-report-pwa.vercel.app</a></p>
+      </div>
+      <div class="mig-footer">
+        <button id="mig-dismiss-btn" class="mig-btn-secondary">Maybe Later</button>
+        <a href="https://mzo-report-pwa.vercel.app" class="mig-btn-primary">Go to New PWA</a>
+      </div>
+    </div>
+  </div>
+
+  <style>
+    .mig-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      background: rgba(15, 23, 42, 0.75);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      z-index: 999999;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+      box-sizing: border-box;
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    }
+    
+    .mig-modal {
+      background: #1e293b; /* Slate-800 matching dark theme */
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 20px;
+      width: 100%;
+      max-width: 440px;
+      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.5);
+      padding: 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+      animation: migScaleUp 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+    }
+    
+    @keyframes migScaleUp {
+      from { transform: scale(0.9); opacity: 0; }
+      to { transform: scale(1); opacity: 1; }
+    }
+    
+    .mig-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 12px;
+      text-align: center;
+    }
+    
+    .mig-header-icon {
+      font-size: 36px;
+      color: #3b82f6; /* Electric blue */
+      background: rgba(59, 130, 246, 0.1);
+      padding: 16px;
+      border-radius: 50%;
+    }
+    
+    .mig-header h3 {
+      margin: 0;
+      color: #f9fafb;
+      font-size: 20px;
+      font-weight: 700;
+    }
+    
+    .mig-body {
+      color: #94a3b8;
+      font-size: 14px;
+      line-height: 1.5;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+    
+    .mig-body strong {
+      color: #f9fafb;
+    }
+    
+    .mig-qr-section {
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid rgba(255, 255, 255, 0.05);
+      padding: 16px;
+      border-radius: 16px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 10px;
+    }
+    
+    .mig-qr-img {
+      width: 160px;
+      height: 160px;
+      border-radius: 8px;
+      background: white; /* Contrast wrapper for scanning */
+      padding: 6px;
+    }
+    
+    .mig-qr-section span {
+      font-size: 11px;
+      color: #64748b;
+    }
+    
+    .mig-url-text {
+      margin: 0;
+      font-size: 13px;
+    }
+    
+    .mig-url-text a {
+      color: #3b82f6;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    
+    .mig-url-text a:hover {
+      text-decoration: underline;
+    }
+    
+    .mig-footer {
+      display: flex;
+      gap: 10px;
+      margin-top: 8px;
+    }
+    
+    .mig-btn-primary {
+      flex: 1;
+      background: #3b82f6;
+      color: white;
+      border: none;
+      border-radius: 12px;
+      padding: 12px;
+      font-size: 14px;
+      font-weight: 600;
+      text-align: center;
+      text-decoration: none;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+    
+    .mig-btn-primary:hover {
+      background: #2563eb;
+    }
+    
+    .mig-btn-secondary {
+      flex: 1;
+      background: transparent;
+      color: #94a3b8;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 12px;
+      padding: 12px;
+      font-size: 14px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    
+    body.light-theme .mig-btn-secondary {
+      color: #475569;
+      border: 1px solid rgba(0, 0, 0, 0.12);
+    }
+    
+    .mig-btn-secondary:hover {
+      background: rgba(255, 255, 255, 0.05);
+      color: #f9fafb;
+    }
+    
+    body.light-theme .mig-btn-secondary:hover {
+      background: rgba(0, 0, 0, 0.04);
+      color: #0f172a;
+    }
+    
+    /* Light theme adaptations */
+    body.light-theme .mig-modal {
+      background: #ffffff;
+      border: 1px solid rgba(0, 0, 0, 0.08);
+      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.15);
+    }
+    
+    body.light-theme .mig-header h3 {
+      color: #0f172a;
+    }
+    
+    body.light-theme .mig-body {
+      color: #475569;
+    }
+    
+    body.light-theme .mig-body strong {
+      color: #0f172a;
+    }
+    
+    body.light-theme .mig-qr-section {
+      background: rgba(0, 0, 0, 0.02);
+      border: 1px solid rgba(0, 0, 0, 0.05);
+    }
+  </style>
+
+  <script>
+    (function() {
+      // Check if user has already dismissed this notice in current browser session
+      if (sessionStorage.getItem('mzo_migration_alert_dismissed') === 'true') {
+        return;
+      }
+      
+      // Delay displaying notice slightly for smooth page transitions
+      window.addEventListener('load', () => {
+        setTimeout(() => {
+          const overlay = document.getElementById('mzo-migration-overlay');
+          if (overlay) {
+            overlay.style.display = 'flex';
+          }
+        }, 800);
+      });
+      
+      document.getElementById('mig-dismiss-btn')?.addEventListener('click', () => {
+        sessionStorage.setItem('mzo_migration_alert_dismissed', 'true');
+        const overlay = document.getElementById('mzo-migration-overlay');
+        if (overlay) {
+          overlay.style.display = 'none';
+        }
+      });
+    })();
+  </script>
+
 </body>
 
 </html>
