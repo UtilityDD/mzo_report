@@ -4222,15 +4222,18 @@
         <div class="mig-qr-section">
           <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&amp;data=https://mzo-report-pwa.vercel.app/" alt="New app QR Code" class="mig-qr-img">
           <span>Scan to open on your phone</span>
+          <a class="mig-url-link" href="https://mzo-report-pwa.vercel.app/" target="_blank" rel="noopener noreferrer">
+            mzo-report-pwa.vercel.app
+          </a>
         </div>
 
         <div class="mig-contact">
-          <p>Please contact</p>
           <div class="mig-contact-row">
-            <img src="arka.jpeg" alt="Arka Roy Chowdhury" class="mig-avatar" />
+            <span class="mig-contact-label">Contact</span>
+            <img src="arka.jpeg" alt="Arka Ray Chowdhury" class="mig-avatar" />
             <div class="mig-contact-info">
-              <div class="mig-name">Arka Roy Chowdhury</div>
-              <div class="mig-role">DE(IT), ZCC</div>
+              <div class="mig-name">Arka Ray Chowdhury</div>
+              <div class="mig-role">DE(IT), ZCC, Malda Zone</div>
               <a class="mig-phone" href="tel:93332791419">
                 <i class="fa-solid fa-mobile-screen-button" aria-hidden="true"></i>
                 93332791419
@@ -4352,6 +4355,18 @@
       color: #8a7f72;
     }
 
+    .mig-url-link {
+      font-size: 13px;
+      font-weight: 600;
+      color: #e85d04;
+      text-decoration: none;
+      word-break: break-all;
+    }
+
+    .mig-url-link:hover {
+      text-decoration: underline;
+    }
+
     .mig-contact {
       text-align: left;
       background: #fff;
@@ -4360,16 +4375,23 @@
       padding: 16px;
     }
 
-    .mig-contact > p {
-      margin: 0 0 12px;
-      font-size: 13px;
-      color: #5a6577;
-    }
-
     .mig-contact-row {
       display: flex;
       align-items: center;
-      gap: 14px;
+      gap: 12px;
+    }
+
+    .mig-contact-label {
+      font-size: 12px;
+      font-weight: 600;
+      color: #5a6577;
+      writing-mode: vertical-rl;
+      transform: rotate(180deg);
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      flex-shrink: 0;
+      line-height: 1;
+      align-self: center;
     }
 
     .mig-avatar {
@@ -4383,6 +4405,7 @@
 
     .mig-contact-info {
       min-width: 0;
+      text-align: left;
     }
 
     .mig-name {
