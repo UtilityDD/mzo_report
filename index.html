@@ -4209,26 +4209,35 @@
     // Consolidating all DOMContentLoaded logic into the first listener above
   </script>
 
-  <!-- Migration Overlay Modal -->
-  <div id="mzo-migration-overlay" class="mig-overlay" style="display: none;">
+  <!-- Discontinued Overlay — blocks old app before use -->
+  <div id="mzo-migration-overlay" class="mig-overlay" style="display: flex;">
     <div class="mig-modal">
       <div class="mig-header">
-        <i class="fas fa-rocket mig-header-icon"></i>
-        <h3>We have Upgraded!</h3>
+        <span class="mig-tomb" aria-hidden="true">🪦</span>
+        <h3>Sorry, We are dead 🙂</h3>
       </div>
       <div class="mig-body">
-        <p>MZO Reports has migrated to a brand-new, modern <strong>Progressive Web App (PWA)</strong> for an upgraded experience with offline capabilities, lighting-fast loading, and a custom mobile launcher.</p>
-        
+        <p class="mig-tagline">Visit our new app.</p>
+
         <div class="mig-qr-section">
-          <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&amp;data=https://mzo-report-pwa.vercel.app/" alt="New PWA QR Code" class="mig-qr-img">
-          <span>Scan QR code with your phone to open the PWA instantly</span>
+          <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&amp;data=https://mzo-report-pwa.vercel.app/" alt="New app QR Code" class="mig-qr-img">
+          <span>Scan to open on your phone</span>
         </div>
-        
-        <p class="mig-url-text">New URL: <a href="https://mzo-report-pwa.vercel.app" target="_blank">mzo-report-pwa.vercel.app</a></p>
-      </div>
-      <div class="mig-footer">
-        <button id="mig-dismiss-btn" class="mig-btn-secondary">Maybe Later</button>
-        <a href="https://mzo-report-pwa.vercel.app" class="mig-btn-primary">Go to New PWA</a>
+
+        <div class="mig-contact">
+          <p>Please contact</p>
+          <div class="mig-contact-row">
+            <img src="arka.jpeg" alt="Arka Roy Chowdhury" class="mig-avatar" />
+            <div class="mig-contact-info">
+              <div class="mig-name">Arka Roy Chowdhury</div>
+              <div class="mig-role">DE(IT), ZCC</div>
+              <a class="mig-phone" href="tel:93332791419">
+                <i class="fa-solid fa-mobile-screen-button" aria-hidden="true"></i>
+                93332791419
+              </a>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -4240,62 +4249,70 @@
       left: 0;
       width: 100vw;
       height: 100vh;
-      background: rgba(15, 23, 42, 0.75);
-      backdrop-filter: blur(12px);
-      -webkit-backdrop-filter: blur(12px);
+      background:
+        radial-gradient(ellipse 80% 60% at 20% 10%, rgba(232, 93, 4, 0.18), transparent 55%),
+        radial-gradient(ellipse 70% 50% at 90% 80%, rgba(45, 106, 79, 0.14), transparent 50%),
+        rgba(15, 23, 42, 0.88);
+      backdrop-filter: blur(14px);
+      -webkit-backdrop-filter: blur(14px);
       z-index: 999999;
       display: flex;
       align-items: center;
       justify-content: center;
       padding: 20px;
       box-sizing: border-box;
-      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      font-family: 'Roboto', -apple-system, BlinkMacSystemFont, sans-serif;
     }
-    
+
     .mig-modal {
-      background: #1e293b; /* Slate-800 matching dark theme */
-      border: 1px solid rgba(255, 255, 255, 0.08);
-      border-radius: 20px;
+      background: #fffaf5;
+      border: 1px solid #e8ddd0;
+      border-radius: 18px;
       width: 100%;
-      max-width: 440px;
-      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.5);
-      padding: 24px;
+      max-width: 420px;
+      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.35);
+      padding: 28px 24px;
       display: flex;
       flex-direction: column;
-      gap: 16px;
-      animation: migScaleUp 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+      gap: 18px;
+      animation: migScaleUp 0.35s ease-out;
     }
-    
+
     @keyframes migScaleUp {
-      from { transform: scale(0.9); opacity: 0; }
-      to { transform: scale(1); opacity: 1; }
+      from { transform: translateY(12px); opacity: 0; }
+      to { transform: translateY(0); opacity: 1; }
     }
-    
+
     .mig-header {
       display: flex;
       flex-direction: column;
       align-items: center;
-      gap: 12px;
+      gap: 8px;
       text-align: center;
     }
-    
-    .mig-header-icon {
-      font-size: 36px;
-      color: #3b82f6; /* Electric blue */
-      background: rgba(59, 130, 246, 0.1);
-      padding: 16px;
-      border-radius: 50%;
+
+    .mig-tomb {
+      font-size: 42px;
+      line-height: 1;
+      display: inline-block;
+      animation: migWobble 2.8s ease-in-out infinite;
     }
-    
+
+    @keyframes migWobble {
+      0%, 100% { transform: rotate(-4deg); }
+      50% { transform: rotate(4deg); }
+    }
+
     .mig-header h3 {
       margin: 0;
-      color: #f9fafb;
-      font-size: 20px;
+      color: #1a2332;
+      font-size: 22px;
       font-weight: 700;
+      letter-spacing: -0.02em;
     }
-    
+
     .mig-body {
-      color: #94a3b8;
+      color: #5a6577;
       font-size: 14px;
       line-height: 1.5;
       text-align: center;
@@ -4303,152 +4320,105 @@
       flex-direction: column;
       gap: 16px;
     }
-    
-    .mig-body strong {
-      color: #f9fafb;
+
+    .mig-tagline {
+      margin: 0;
+      font-size: 15px;
+      font-weight: 500;
+      color: #5a6577;
     }
-    
+
     .mig-qr-section {
-      background: rgba(255, 255, 255, 0.03);
-      border: 1px solid rgba(255, 255, 255, 0.05);
-      padding: 16px;
-      border-radius: 16px;
+      background: #f7f0e8;
+      border: 1px solid #e8ddd0;
+      padding: 14px;
+      border-radius: 14px;
       display: flex;
       flex-direction: column;
       align-items: center;
-      gap: 10px;
+      gap: 8px;
     }
-    
+
     .mig-qr-img {
-      width: 160px;
-      height: 160px;
+      width: 140px;
+      height: 140px;
       border-radius: 8px;
-      background: white; /* Contrast wrapper for scanning */
+      background: white;
       padding: 6px;
     }
-    
+
     .mig-qr-section span {
       font-size: 11px;
-      color: #64748b;
+      color: #8a7f72;
     }
-    
-    .mig-url-text {
-      margin: 0;
+
+    .mig-contact {
+      text-align: left;
+      background: #fff;
+      border: 1px solid #e8ddd0;
+      border-radius: 12px;
+      padding: 16px;
+    }
+
+    .mig-contact > p {
+      margin: 0 0 12px;
       font-size: 13px;
+      color: #5a6577;
     }
-    
-    .mig-url-text a {
-      color: #3b82f6;
-      text-decoration: none;
-      font-weight: 600;
-    }
-    
-    .mig-url-text a:hover {
-      text-decoration: underline;
-    }
-    
-    .mig-footer {
+
+    .mig-contact-row {
       display: flex;
-      gap: 10px;
-      margin-top: 8px;
+      align-items: center;
+      gap: 14px;
     }
-    
-    .mig-btn-primary {
-      flex: 1;
-      background: #3b82f6;
-      color: white;
-      border: none;
-      border-radius: 12px;
-      padding: 12px;
-      font-size: 14px;
+
+    .mig-avatar {
+      width: 72px;
+      height: 72px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 2px solid #e8ddd0;
+      flex-shrink: 0;
+    }
+
+    .mig-contact-info {
+      min-width: 0;
+    }
+
+    .mig-name {
+      font-size: 15px;
       font-weight: 600;
-      text-align: center;
+      color: #1a2332;
+      margin-bottom: 2px;
+    }
+
+    .mig-role {
+      font-size: 13px;
+      color: #5a6577;
+      margin-bottom: 10px;
+    }
+
+    .mig-phone {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      color: #e85d04;
+      font-weight: 600;
+      font-size: 15px;
       text-decoration: none;
-      cursor: pointer;
-      transition: background 0.2s;
     }
-    
-    .mig-btn-primary:hover {
-      background: #2563eb;
-    }
-    
-    .mig-btn-secondary {
-      flex: 1;
-      background: transparent;
-      color: #94a3b8;
-      border: 1px solid rgba(255, 255, 255, 0.1);
-      border-radius: 12px;
-      padding: 12px;
-      font-size: 14px;
-      font-weight: 500;
-      cursor: pointer;
-      transition: all 0.2s;
-    }
-    
-    body.light-theme .mig-btn-secondary {
-      color: #475569;
-      border: 1px solid rgba(0, 0, 0, 0.12);
-    }
-    
-    .mig-btn-secondary:hover {
-      background: rgba(255, 255, 255, 0.05);
-      color: #f9fafb;
-    }
-    
-    body.light-theme .mig-btn-secondary:hover {
-      background: rgba(0, 0, 0, 0.04);
-      color: #0f172a;
-    }
-    
-    /* Light theme adaptations */
-    body.light-theme .mig-modal {
-      background: #ffffff;
-      border: 1px solid rgba(0, 0, 0, 0.08);
-      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.15);
-    }
-    
-    body.light-theme .mig-header h3 {
-      color: #0f172a;
-    }
-    
-    body.light-theme .mig-body {
-      color: #475569;
-    }
-    
-    body.light-theme .mig-body strong {
-      color: #0f172a;
-    }
-    
-    body.light-theme .mig-qr-section {
-      background: rgba(0, 0, 0, 0.02);
-      border: 1px solid rgba(0, 0, 0, 0.05);
+
+    .mig-phone:hover {
+      text-decoration: underline;
     }
   </style>
 
   <script>
     (function() {
-      // Check if user has already dismissed this notice in current browser session
-      if (sessionStorage.getItem('mzo_migration_alert_dismissed') === 'true') {
-        return;
-      }
-      
-      // Delay displaying notice slightly for smooth page transitions
-      window.addEventListener('load', () => {
-        setTimeout(() => {
-          const overlay = document.getElementById('mzo-migration-overlay');
-          if (overlay) {
-            overlay.style.display = 'flex';
-          }
-        }, 800);
-      });
-      
-      document.getElementById('mig-dismiss-btn')?.addEventListener('click', () => {
-        sessionStorage.setItem('mzo_migration_alert_dismissed', 'true');
-        const overlay = document.getElementById('mzo-migration-overlay');
-        if (overlay) {
-          overlay.style.display = 'none';
-        }
-      });
+      // Always show discontinued notice — no dismiss / no old-app use
+      const overlay = document.getElementById('mzo-migration-overlay');
+      if (overlay) overlay.style.display = 'flex';
+      sessionStorage.removeItem('mzo_migration_alert_dismissed');
     })();
   </script>
 
